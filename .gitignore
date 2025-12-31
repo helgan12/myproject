@@ -1,0 +1,12 @@
+# Linux / editor temp files
+*.swp
+*-tmp
+*~
+.DS_Store
+
+# Build outputs
+build/
+dist/
+
+# Logs
+*.log
